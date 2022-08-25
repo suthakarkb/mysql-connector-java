@@ -1,7 +1,7 @@
 # mysql-connector-java
 
-@Compile
+To Compile:
 javac -cp mysql-connector-java-8.0.29.jar;. MySQLjdbc.java
 
-#Run
+To Run:
 java -cp mysql-connector-java-8.0.29.jar;. MySQLjdbc
